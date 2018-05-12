@@ -1,5 +1,8 @@
 _repo: The-Happiest-Time-of-Their-Lives_11325
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Miller, Alice Duer
@@ -12,6 +15,8 @@ creator:
 description: A love story of the smart set of New York, focusing on the idea of whether
   or not sheltered women are stronger or weaker in a crises than their independent
   sisters.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11325#The-Happiest-Time-of-Their-Lives
 gutenberg_issued: '2004-02-01'
 gutenberg_type: Text
 identifiers:
